@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm ``` David  ``` 👋
+
+
+
+- 🔭 I’m  a mechatronics engineering student.
+
 
 <!--
 **Davidgonza12/Davidgonza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
