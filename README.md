@@ -1,7 +1,7 @@
 ### Hi there, I'm ``` David  ``` 👋
 
 
-### ```   ⚡ ``` 
+### ```  About ⚡ ``` 
 
 - 🔭 I’m  a mechatronics engineering student.
 
