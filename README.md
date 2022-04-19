@@ -5,6 +5,12 @@
 - 🔭 I’m  a mechatronics engineering student.
 
 
+
+
+
+### ``` Habilidades   ``` 👋
+
+
 <!--
 **Davidgonza12/Davidgonza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
