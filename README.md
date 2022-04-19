@@ -1,6 +1,7 @@
 ### Hi there, I'm ``` David  ``` 👋
 
 
+### ```   ⚡ ``` 
 
 - 🔭 I’m  a mechatronics engineering student.
 
@@ -8,13 +9,18 @@
 
 
 
-### ``` Habilidades  ⚡ ``` 
+### ``` Skills  ⚡ ``` 
+
+📌 Python Desktop apps
+
+📌 UX-UI
 
 
-### ``` Habilidades   ``` 
+
+### ``` About  🚀 ``` 
 
 
-### ```  Contacto 💬 ``` 
+### ```  Contact 💬 ``` 
 
 
 
