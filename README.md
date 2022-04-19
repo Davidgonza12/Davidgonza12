@@ -8,7 +8,14 @@
 
 
 
-### ``` Habilidades   ``` 👋
+### ``` Habilidades  ⚡ ``` 
+
+
+### ``` Habilidades   ``` 
+
+
+### ```  Contacto 💬 ``` 
+
 
 
 <!--
